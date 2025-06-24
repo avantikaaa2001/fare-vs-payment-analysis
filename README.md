@@ -108,7 +108,7 @@ A polished PDF presentation summarizing:
 - Regression Results  
 - Business Recommendations  
 
-👉 [View PDF Report](./472538cc-ba71-4a4a-adbe-d44fe4d6496f.pdf)
+👉 [View PDF Report](https://github.com/avantikaaa2001/fare-vs-payment-analysis/blob/main/omsGeFBKDwGkb4gL1hoyon.pdf)
 
 ---
 
